@@ -1,0 +1,22 @@
+*{
+    margin: 5px;
+}
+body
+{
+    background-color: aqua;
+}
+.Vloot1
+{
+    float: left;
+}
+.Vloot2{
+    float: right;
+}
+.Vloot3{
+    float: left;
+}
+.Title
+{
+    font-weight: bold;
+    margin: 10px;
+}
